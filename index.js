@@ -376,11 +376,6 @@ console.log(isNaN(NaN + NaN));
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
-
 
 
 // 5️⃣ String Concatenation(operators)
